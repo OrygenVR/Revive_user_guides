@@ -70,15 +70,15 @@ For a detail instalation Click [here](Detail_Instalation.md)
 </div>
 </p>
 
-2. Select computer and click on "Launch"
-3. The user in the headset shoudl be in the White space:
+5. Select computer and click on "Launch"
+6. The user in the headset shoudl be in the White space:
 
 <p align="center">
   <img src="docs/Images/WhiteSpace.gif" style="width: 80%;">
 </p>
 
 
-4. In your computer doble click on the Revive Icon to start the program.
+7. In your computer doble click on the Revive Icon to start the program.
 
 <p align="center">
   <img src="docs/Images/IconApp.png" style="width: 10%;">
