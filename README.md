@@ -82,11 +82,11 @@ Instructions on how to set up and start using the program for the first time.
 4. For Wifi tick on "Use Air Link", for cable tick off.
 <p align="center" style="display: flex;justify-content: center; align-items: center;">
 <div align="center" >
-  <h2> Wireless Setup </h2>
+  <p> Wireless Setup </p>
   <img src="docs/Images/UsingAirlink.jpg" style="width: 50%;">
 </div>
 <div align="center">
-  <h2> Cable Setup </h2>
+  <p> Cable Setup </p>
   <img src="docs/Images/usingCable.jpg" style="width: 50%;">
 </div>
 </p>
