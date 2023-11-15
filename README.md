@@ -1,7 +1,7 @@
 # Revive User Guide
 
 ## Introduction
-Briefly describe the purpose of the program and the intended audience.
+Revive is a novel virtual reality (VR) therapy designed to help young people overcome social anxiety and improve their social interaction skills. By creating immersive, realistic social scenarios in a VR setting, Revive allows individuals to practice and gain confidence in situations they find challenging, such as conversations in a cafe or interactions on public transport. This personalized and interactive approach, guided by therapists, offers a safe and controlled environment for users to develop social skills, making it a valuable complement to traditional therapeutic methods.
 
 ## Table of Contents
 - [Minimum Requirements](#minimum-requirements)
