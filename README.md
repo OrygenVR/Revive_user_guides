@@ -24,8 +24,8 @@ Revive is a novel virtual reality (VR) therapy designed to help young people ove
 To ensure the best experience with Revive, the following minimum requirements should be met:
 
 ### For Oculus Quest 2/3:
-- Oculus Quest 2 or 3 headset with the latest firmware update.
-- Active Oculus account.
+- Meta Quest 2 or 3 headset with the latest firmware update.
+- Active Meta account.
 
 ### For PC :
 - Operating System: Windows 10, Windows 11.
@@ -54,9 +54,11 @@ Instructions on how to set up and start using the program for the first time.
 
 ## Features
 List and describe the key features of the program.
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
+- Feature 1: Select Different Enviroments
+- Feature 2: Create Social Interactions
+- Feature 3: Control Avatar Emotions and Attention
+- Feature 4: Control Avatar Voice
+
 
 ## Usage Instructions
 Detailed guidance on how to use the program, ideally with examples.
