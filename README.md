@@ -43,7 +43,10 @@ To ensure the best experience with Revive, the following minimum requirements sh
 4. Select your headset. 
 
 
-docs/Images/Revive_Pair_AirLink.mp4
+
+https://github.com/OrygenVR/Revive_user_guides/assets/26077977/a1c1f547-3ebc-4480-9a3d-d37b9353805a
+
+
 
 For cable Connection:
 - Connect your headeset with the usb-c cable to your computer.
