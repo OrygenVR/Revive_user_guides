@@ -23,34 +23,88 @@ Revive is a novel virtual reality (VR) therapy designed to help young people ove
 ## Minimum Requirements
 To ensure the best experience with Revive, the following minimum requirements should be met:
 
-### For Oculus Quest 2/3:
+### Meta Quest 2 or 3:
 - Meta Quest 2 or 3 headset with the latest firmware update.
-- Active Meta account.
+- Usb-c Link Cable [meta](https://www.meta.com/au/quest/accessories/link-cable/) or 5Ghz Wifi 
 
 ### For PC :
 - Operating System: Windows 10, Windows 11.
 - Processor: Intel i5-4590/AMD Ryzen 5 1500X or greater
 - Memory: 8 GB+ RAM.
 - Graphics Card: NVIDIA GTX 1060 / AMD Radeon RX 480 or greater. [More Info](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/meta-quest-link-compatibility/)
-- Network: Reliable Wi-Fi connection (5GHz network).
-
   
 
 ## Installation
-Provide detailed instructions on how to install the program.
 
 1. Ensure your Oculus Quest 2 or 3 is updated to the latest firmware.
-2. Install the Oculus App on your PC.
-3. Connect your Oculus Quest to your PC using the AirLink feature.
-4. Download and install [Your Program Name] from the Oculus Store or provided source.
-5. Launch [Your Program Name] from the Apps section in your headset.
+2. Install the Oculus App on your PC. [Download here](https://www.oculus.com/download_app/?id=1582076955407037)
+
+3. Open Oculus App, en the left menu click on Devices, then click on Add Headset.
+4. Select your headset. 
+
+
+<p align="center">
+  <video width="80%" controls>
+  <source src="docs/Images/Revive_Pair_AirLink.mp4" type="video/mp4">
+</video>
+</p>
+
+For cable Connection:
+- Connect your headeset with the usb-c cable to your computer.
+
+For wireless connection
+- Connect your Oculus Quest and your PC to the same wifi network.
+
+5. Open Oculus App on the PC and follow instructions to pair.
+6. Put on your headset. Once connected, you should see a prompt in VR asking if you want to enable AirLink. Choose “Enable” to initiate the connection. If you don’t see the prompt, you can navigate to the Settings menu in your Quest and manually enable AirLink.
+
+6. The computer and headset are connected when the user in the headset is in a white room.
+
+
 
 ## Getting Started
 Instructions on how to set up and start using the program for the first time.
-1. Put on your Oculus Quest headset.
-2. Navigate to the Library and select [Your Program Name].
-3. Follow the on-screen instructions to complete the initial setup.
-4. Adjust your settings as preferred for an optimal experience.
+1. Connect your Meta Quest using cable or wifi (Airlink)
+  - For cable make sure to use a USB-c fast speed cable
+  - For airlink make sure the headset and the computer are in the same Wifi network 
+
+2. Put in the headset and click on Quick Settings
+
+<p align="center">
+  <img src="docs/Images/Quick_Settings.png" style="width: 25%;">
+</p>
+
+3. Select Quest Link
+
+<p align="center">
+  <img src="docs/Images/Quest_link.png" style="width: 25%;">
+</p>
+
+4. For Wifi tick on "Use Air Link", for cable tick off.
+<p align="center">
+<div align="center" >
+  <h2> Wireless Setup </h2>
+  <img src="docs/Images/UsingAirlink.jpg" style="width: 25%;">
+</div>
+<div align="center">
+  <h2> Cable Setup </h2>
+  <img src="docs/Images/usingCable.jpg" style="width: 25%;">
+</div>
+</p>
+
+2. Select computer and click on "Launch"
+3. The user in the headset shoudl be in the White space:
+
+<p align="center">
+  <img src="docs/Images/WhiteSpace.gif" style="width: 25%;">
+</p>
+
+
+4. In your computer doble click on the Revive Icon to start the program.
+
+<p align="center">
+  <img src="docs/Images/IconApp.png" style="width: 10%;">
+</p>
 
 ## Features
 List and describe the key features of the program.
