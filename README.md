@@ -96,7 +96,7 @@ For wireless connection
 3. The user in the headset shoudl be in the White space:
 
 <p align="center">
-  <img src="docs/Images/WhiteSpace.gif" style="width: 50%;">
+  <img src="docs/Images/WhiteSpace.gif" style="width: 80%;">
 </p>
 
 
