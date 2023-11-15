@@ -70,24 +70,24 @@ Instructions on how to set up and start using the program for the first time.
 2. Put in the headset and click on Quick Settings
 
 <p align="center">
-  <img src="docs/Images/Quick_Settings.png" style="width: 25%;">
+  <img src="docs/Images/Quick_Settings.png" style="width: 50%;">
 </p>
 
 3. Select Quest Link
 
 <p align="center">
-  <img src="docs/Images/Quest_link.png" style="width: 25%;">
+  <img src="docs/Images/Quest_link.png" style="width: 50%;">
 </p>
 
 4. For Wifi tick on "Use Air Link", for cable tick off.
 <p align="center" style="display: flex;justify-content: center; align-items: center;">
 <div align="center" >
   <h2> Wireless Setup </h2>
-  <img src="docs/Images/UsingAirlink.jpg" style="width: 25%;">
+  <img src="docs/Images/UsingAirlink.jpg" style="width: 50%;">
 </div>
 <div align="center">
   <h2> Cable Setup </h2>
-  <img src="docs/Images/usingCable.jpg" style="width: 25%;">
+  <img src="docs/Images/usingCable.jpg" style="width: 50%;">
 </div>
 </p>
 
@@ -95,7 +95,7 @@ Instructions on how to set up and start using the program for the first time.
 3. The user in the headset shoudl be in the White space:
 
 <p align="center">
-  <img src="docs/Images/WhiteSpace.gif" style="width: 25%;">
+  <img src="docs/Images/WhiteSpace.gif" style="width: 50%;">
 </p>
 
 
