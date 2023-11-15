@@ -62,7 +62,8 @@ For wireless connection
 
 
 ## Getting Started
-Instructions on how to set up and start using the program for the first time.
+
+
 1. Connect your Meta Quest using cable or wifi (Airlink)
   - For cable make sure to use a USB-c fast speed cable
   - For airlink make sure the headset and the computer are in the same Wifi network 
