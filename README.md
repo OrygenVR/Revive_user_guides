@@ -1,7 +1,7 @@
 # Revive User Guide
 
 <p align="center">
-  <img src="docs/images/Logo.png">
+  <img src="docs/Images/Logo.png">
 </p>
 
 
