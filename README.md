@@ -43,11 +43,7 @@ To ensure the best experience with Revive, the following minimum requirements sh
 4. Select your headset. 
 
 
-<p align="center">
-  <video width="80%" controls>
-  <source src="docs/Images/Revive_Pair_AirLink.mp4" type="video/mp4">
-</video>
-</p>
+docs/Images/Revive_Pair_AirLink.mp4
 
 For cable Connection:
 - Connect your headeset with the usb-c cable to your computer.
@@ -58,7 +54,7 @@ For wireless connection
 5. Open Oculus App on the PC and follow instructions to pair.
 6. Put on your headset. Once connected, you should see a prompt in VR asking if you want to enable AirLink. Choose “Enable” to initiate the connection. If you don’t see the prompt, you can navigate to the Settings menu in your Quest and manually enable AirLink.
 
-6. The computer and headset are connected when the user in the headset is in a white room.
+7. The computer and headset are connected when the user in the headset is in a white room.
 
 
 
@@ -81,7 +77,7 @@ Instructions on how to set up and start using the program for the first time.
 </p>
 
 4. For Wifi tick on "Use Air Link", for cable tick off.
-<p align="center">
+<p align="center" style="display: flex;justify-content: center; align-items: center;">
 <div align="center" >
   <h2> Wireless Setup </h2>
   <img src="docs/Images/UsingAirlink.jpg" style="width: 25%;">
